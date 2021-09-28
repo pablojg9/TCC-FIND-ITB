@@ -6,6 +6,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Starter Project
+
+## Install Bootstrap 
+
+### `yarn add bootstrap`
+
+### Install React Router Dom
+### `yarn add react-router-dom`
+### `yarn add @types/react-router-dom -D`
+
+
 ### `yarn start`
 
 Runs the app in the development mode.\
