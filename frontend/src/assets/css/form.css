@@ -1,7 +1,7 @@
 .frase {
-   color: #566573;
+   color: #979797;
    padding: 50px;
-   margin-left: 50px;
+   margin-left: 60px;
    margin-top: 75px;
    font-size: 1.7em;
 }
@@ -28,7 +28,7 @@
 }
 
 .text-dev {
-   margin-left: 20px;
+   margin-left: 25px;
    color: #1b98e0;
    font-size: 1.4em;
 }
