@@ -2,7 +2,7 @@
    color: #566573;
    padding: 50px;
    margin-left: 50px;
-   margin-top: 131px;
+   margin-top: 75px;
    font-size: 1.7em;
 }
 
@@ -12,7 +12,7 @@
    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
    padding: 25px;
    margin-left: 15%;
-   margin-top: 20%;
+   margin-top: 22%;
    width: 45%;
 }
 
@@ -26,6 +26,18 @@
    border-color: lightgray;
 
 }
+
+.text-dev {
+   margin-left: 20px;
+   color: #1b98e0;
+   font-size: 1.4em;
+}
+
+.block-table {
+   margin-left: 95px;
+   padding: 7px;
+}
+
 
 .button-edit {
    margin-top: 20px;
@@ -51,7 +63,8 @@
    background-color: white;
    width: 200px;
    height: 45px;
- 
+   
+   margin-top: 15px;
    border-style: solid;
    border-color: #1b98e0;
    text-align: center;
