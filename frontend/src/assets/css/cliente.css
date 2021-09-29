@@ -1,0 +1,92 @@
+.main {
+   height: 40vh;
+   display: flex;
+   margin: 0 auto;
+   margin-left: 10%;
+   padding: 15px;
+
+   
+}
+
+.tags-title {
+   color: #52565A;
+   font-weight: bold;
+}
+
+.tags {
+   box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%);
+   width: 350px;
+   background-color: #fff;
+   padding: 24px;
+}
+
+.feed {
+   box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%);
+   width: 110vh;
+   background-color: #fff;
+   margin-left: 10px;
+   padding: 24px;
+   height: 50vh;
+}
+
+.tags-feed {
+   display: inline-block;
+   font-size: 15px;
+   line-height: 120%;
+   background: transparent;
+   padding: 10px 12px;
+   transition: ease 300ms;
+}
+
+.tags-feed:hover{
+   color: #000;
+   background: rgba(0, 0, 0, 0.1);
+   opacity: 2;
+}
+
+.exibir-result {
+   font-size: 12px;
+}
+
+.avatar {
+   width: 10%;
+   border-radius: 50%;
+   border-color: #000;
+   margin-left: 20px;
+}
+
+.avatar-nav {
+   width: 25px;
+   border-radius: 50%;
+   margin-bottom: 20px;
+}
+
+.name {
+   font-size: 12px;
+}
+
+.title-post-feed {
+   font-size: 20px;
+   margin-left: 10px;
+   font-weight: 500;
+}
+
+.escrito {
+   display: flex;
+   font-size: 10px;
+   margin-left: 60px;
+   margin-top: -15px;
+}
+
+.collapse-avatar {
+   margin-bottom: -30px;
+}
+
+.dropdown-edit {
+   box-shadow: 10px 10px 10px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 10px 1px 3px 0px rgb(0 0 0 / 12%);
+}
+
+.space-siderbar {
+   height: 80vh;
+}
+
