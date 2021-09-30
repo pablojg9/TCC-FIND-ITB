@@ -11,6 +11,7 @@ In the project directory, you can run:
 ## Install Bootstrap 
 
 ### `yarn add bootstrap`
+### `yarn add bootstrap jquery --save`
 
 ## Install React Router Dom
 ### `yarn add react-router-dom`
